@@ -1,0 +1,4 @@
+Update - 5/25/22 
+My thoughts here is around the automation.
+Natively I use azure devops, and link that to me MSDN Subscription. 
+Logic app to respond to events from the webhooks might be possible solution. 
